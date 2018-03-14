@@ -1,6 +1,6 @@
 name             'dev'
-maintainer       'Laschuk Oleksandr'
-maintainer_email 'Laschuk.Oleksandr@gmail.com'
+maintainer       'maintainer'
+maintainer_email 'email@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures dev'
 long_description 'Installs/Configures dev'
